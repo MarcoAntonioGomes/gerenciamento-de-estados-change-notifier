@@ -1,5 +1,5 @@
 
-![](https://user-images.githubusercontent.com/22684176/225420415-be1ce43e-7df2-43a2-b715-26e3bb3fc9f1.png)
+
 
 # Flutter: Gerenciamento de estados com Change Notifier
 
