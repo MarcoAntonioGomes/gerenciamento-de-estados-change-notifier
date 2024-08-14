@@ -3,7 +3,7 @@
 
 # Flutter: Gerenciamento de estados com Change Notifier
 
-## Implemente o gerenciador de estados MobX em seus projetos
+## Implemente o gerenciador de estados Change Notifier em seus projetos
 
 Curso da escola Mobile que fala sobre o gerenciador de estados com Change Notifier para Flutter. Os temas abordados são: Observáveis, Ações e Provider. 
 
